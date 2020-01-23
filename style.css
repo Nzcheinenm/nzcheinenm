@@ -8,18 +8,13 @@ body {
   padding-bottom: 32px;
 }
 
-/* BEGIN (write your solution here) */
-/*При оформлении учитывайте правило близости. Помните: внутренние расстояния должны быть меньше внешних.
-
-(Под отступом всегда подразумевается margin). */
-
 p {
     margin-bottom: 12px;
 }
 
- a:hover {
-    color: #ffe; /* Цвет текста активного пункта */
-    background-color: #5488af; /* Цвет фона активного пункта */
+  p a:hover {
+    color: #ffe;
+    background-color: #5488af; 
    }
 
 h1 h2 h3 {
