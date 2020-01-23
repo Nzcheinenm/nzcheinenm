@@ -12,7 +12,7 @@ p {
     margin-bottom: 12px;
 }
 
-  p a:hover {
+p a:hover {
     color: #ffe;
     background-color: #5488af; 
    }
